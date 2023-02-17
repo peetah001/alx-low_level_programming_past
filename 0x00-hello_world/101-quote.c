@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- *  main - UNIX is basically a simple operating system
+ *  main - entry point
  *  Return: 1
  */
 int main(void)
 {
-fputs("that piece of art is useful" - Dora Korpar, 2015 - 10 - 19\n", stdout);
-return (1)
+	write(2, "that piece of art is useful\" - Dora Korpar, 2015 - 10 - 19\n", 59);
+	return (1);
 }
